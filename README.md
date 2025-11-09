@@ -28,10 +28,10 @@ Tidak ada _library_ eksternal yang diperlukan selain _built-in module_ **`math`*
 
 Ikuti langkah-langkah berikut untuk menjalankan permainan:
 
-1.  **Kloning Repositori** (atau unduh file `tictactoe.py` Anda):
+1.  **Kloning Repositori** (atau unduh file `uts_praktek.ipynb` Anda):
 
     ```bash
-    git clone [https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git](https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git)
+    git clone [https://github.com/Ukinda/tic-tac-toe-minimax-python.git](https://github.com/Ukinda/tic-tac-toe-minimax-python.git)
     cd NAMA_REPO_ANDA
     ```
 

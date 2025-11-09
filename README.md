@@ -38,7 +38,7 @@ Ikuti langkah-langkah berikut untuk menjalankan permainan:
 2.  **Jalankan Skrip Python:**
 
     ```bash
-    python tictactoe.py
+    uts_praktek.ipynb
     ```
 
 3.  **Bermain!**
@@ -79,5 +79,5 @@ Proyek ini berada di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk det
 
 ---
 
-**Dibuat oleh** [NAMA/USERNAME ANDA]
+**Dibuat oleh** [Ukinda Feriando Setiawan/UKINDA]
 
